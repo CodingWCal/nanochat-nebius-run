@@ -51,4 +51,7 @@ This version represents a much stronger outcome. The run completed, the outputs 
 
 ## Model artifacts
 
-Large checkpoint files and tokenizer assets are stored separately from this code repository to keep the project lightweight and easier to navigate. This repository focuses on code, report files, and project context, while the trained weights and tokenizer assets are intended to be published in a Hugging Face model repository.
+Large checkpoint files and tokenizer assets are stored separately from this code repository to keep the project lightweight and easier to navigate. This repository focuses on code, report files, and project context, while the trained weights and tokenizer assets are published in a companion Hugging Face model repository.
+
+## Companion Repository: Hugging Face
+https://huggingface.co/CodingwCal/nanochat-d24-nebius-run
