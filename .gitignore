@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Git internals from copied folders
+.git/
+
+# Large model artifacts
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+*.tar
+*.tar.gz
+*.zip
+
+# Training artifacts and caches
+chatsft_checkpoints/
+tokenizer/
+report/
+base_checkpoints/
+base_data_*
+eval_bundle*
