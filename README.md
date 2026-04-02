@@ -47,7 +47,7 @@ Tokenizer assets:
 
 I wanted this repository to be more than just a dump of files. It is a clean record of a real training run that worked from start to finish, including setup, execution, validation, browser testing, and backup. It also reflects the lessons learned from earlier attempts where the final save process did not go smoothly.
 
-This version represents a much stronger outcome. The run completed, the outputs were verified, the tokenizer was preserved, and the key artifacts were backed up locally before the VM was shut down.
+This version represents a much stronger outcome. The run completed, the outputs were verified, the tokenizer was preserved, and the key artifacts were backed up locally in a tar gz file before the VM was shut down.
 
 ## Model artifacts
 
